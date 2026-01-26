@@ -15,3 +15,6 @@ print("Last Character", s1[-1])
 
 # slicing syntac
 # string[start : end : step]
+# [end-index] will not be printed
+print(s1[2:7:1])
+print(type(s1))
