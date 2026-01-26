@@ -1,0 +1,6 @@
+print(7)
+print("Antash")
+print("Sinha")
+print("CFD")
+print(5000*15)
+print(4/2)
