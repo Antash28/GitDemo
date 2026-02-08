@@ -13,7 +13,17 @@ print(student1["marks"][1])
 student2 = {"id":1005,"name":"Max","marks":{"eng":80,"maths":70,"phy":10}}
 print(student2["marks"])
 print(student2["marks"]["phy"])
+print('\n')
 
 # only fetching the "keys"
-print(student1.keys)
-print(student2.keys)
+print(student1.keys())
+print(student2.keys())
+print('\n')
+# only fetching the "values"
+print(student1.values())
+print(student2.values())
+print('\n')
+# only fetching the "items"
+print(student1.items())
+print(student2.items())
+print('\n')
