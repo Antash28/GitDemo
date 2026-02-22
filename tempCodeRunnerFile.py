@@ -1,1 +1,1 @@
-continue
+        user.pop(i)
